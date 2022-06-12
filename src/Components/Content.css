@@ -1,0 +1,14 @@
+.Main__Content{
+    display: flex;
+    gap: 20px;
+}
+
+.outerArea__box{
+    border: 1px solid black;
+    padding: 7rem 12rem;
+    cursor: pointer;
+}
+.inner__box{
+    border: 1px solid black;
+    padding: 1rem 2rem;
+}

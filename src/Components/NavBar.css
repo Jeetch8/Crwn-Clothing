@@ -1,0 +1,23 @@
+.Main__Navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+li{
+    list-style: none;
+}
+ul{
+    display: flex;
+    gap: 25px;
+}
+.navbar__bag{
+    font-size: 20px;
+    position: relative;
+}
+.number{
+    position: absolute;
+    right: 5px;
+    font-size: 13px;
+    top: 5px;
+}
